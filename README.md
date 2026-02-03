@@ -1,2 +1,2 @@
 # partially_cloudy
-Conflicting message.
+Instructor note. 
